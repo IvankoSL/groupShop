@@ -1,12 +1,12 @@
 body{
-  background-color: #e09f7d;
+  /*background-color: #e09f7d;*/
 }
 .frame{
   width: 100%;
   height: 100%;
 }
 .navbar{
-  background: white;
+  background: #fff772;
   width: 100%;
   height: 30px;
   display: flex;
@@ -18,4 +18,22 @@ body{
   padding: 5px 25px 0 25px;
   text-decoration: none;
   color: black;
+}
+
+
+
+
+.footnavbar{
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 100%;
+	height: 50px;
+	background:#000;
+  display: flex;
+  justify-content: center;
+}
+.footnavbar a{
+  text-decoration: none;
+  color: white;
+  padding: 15px 20px 40px 20px;
 }
