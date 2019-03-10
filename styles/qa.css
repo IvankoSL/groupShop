@@ -1,0 +1,43 @@
+.payment-container {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: baseline;
+
+}
+.payment-option {
+	text-align: center;
+}
+
+body {
+ font-family: 'Roboto', sans-serif;
+ background-color: #f8f9fb;
+ margin: 0px;
+}
+
+.delivery-parag {
+	font-weight: 600;
+}
+.content {
+	margin: 0 auto;
+	padding: 10px 40px 40px;
+	max-width: 1170px;
+} 
+
+hr {
+ border: 0;
+ border-top: 2px solid #eee;
+}
+
+h2 {
+ text-align: center;
+ margin-top: 40px;
+ margin-bottom: 40px;
+ color: #5e5e66;
+}
+
+h1 {
+  color: #4b4c4f;
+}
+
