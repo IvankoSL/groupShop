@@ -68,14 +68,14 @@ input[type="search"]{
   background-color: transparent;
 }
 input[type="submit"] {
-    width: 20px;
-    height: 20px;
-    border: none;
-    vertical-align: middle;
-    background-image: url(../img/search.png);
-    background-repeat: no-repeat;
-    background-position: left;
-    background-color: transparent;
+  width: 20px;
+  height: 20px;
+  border: none;
+  vertical-align: middle;
+  background-image: url(../img/search.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-color: transparent;
   }
 .container {
   margin: 0 auto;
@@ -154,6 +154,7 @@ input[type="submit"] {
   font-size: 16px;
   font-weight: normal;
   text-decoration: none;
+  margin-top: 5px;
 }
 .price{
   font-weight: bold;
