@@ -57,6 +57,25 @@ header{
   background-position: top center;
   background-size: cover;
 }
+.title{
+  text-align: center;
+  padding-top: 40px;
+}
+.text{
+  background-color: white;
+  width: auto;
+}
+.titleText{
+  text-align: center;
+  padding: 20px 20px;
+}
+.one{
+  padding: 6px 170px;
+}
+.three{
+  padding: 10px 90px;
+  text-align: left;
+}
 footer{
   display: flex;
   justify-content: center;
